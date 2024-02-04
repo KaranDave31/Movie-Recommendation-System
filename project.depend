@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698827086 source:c:\users\karan\onedrive\desktop\dsa\project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<vector>
+	<random>
+	<chrono>
+
+1698824942 source:c:\users\karan\onedrive\desktop\dsa\project\temp.c
+
+1698825001 source:c:\users\karan\onedrive\desktop\dsa\project\temp.cpp
+	<iostream>
+	<string>
+

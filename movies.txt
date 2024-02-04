@@ -1,0 +1,333 @@
+The Godfather - Crime
+Pulp Fiction - Crime
+Goodfellas - Crime
+The Departed - Crime
+Heat - Crime
+Se7en - Crime
+Scarface - Crime
+The Silence of the Lambs - Crime
+No Country for Old Men - Crime
+Reservoir Dogs - Crime
+L.A. Confidential - Crime
+Mystic River - Crime
+A History of Violence - Crime
+Zodiac - Crime
+The Usual Suspects - Crime
+Training Day - Crime
+The French Connection - Crime
+Casino - Crime
+Memento - Crime
+Gone Girl - Crime
+Collateral - Crime
+Mystic River - Crime
+Heat - Crime
+The Town - Crime
+Sin City - Crime
+Road to Perdition - Crime
+American Gangster - Crime
+Donnie Brasco - Crime
+The Departed - Crime
+The Girl with the Dragon Tattoo - Crime
+The Italian Job - Crime
+Gangs of New York - Crime
+American History X - Crime
+Heat - Crime
+Mystic River - Crime
+Gone Baby Gone - Crime
+Scarface - Crime
+Eastern Promises - Crime
+Inside Man - Crime
+The Place Beyond the Pines - Crime
+Law Abiding Citizen - Crime
+The Shining - Thriller
+Seven - Thriller
+The Sixth Sense - Thriller
+The Silence of the Lambs - Thriller
+Zodiac - Thriller
+Prisoners - Thriller
+Shutter Island - Thriller
+Gone Girl - Thriller
+Mystic River - Thriller
+Panic Room - Thriller
+Black Swan - Thriller
+The Others - Thriller
+The Girl with the Dragon Tattoo - Thriller
+The Prestige - Thriller
+Memento - Thriller
+Insomnia - Thriller
+The Machinist - Thriller
+Donnie Darko - Thriller
+Oldboy - Thriller
+The Talented Mr. Ripley - Thriller
+Gone Baby Gone - Thriller
+The Sixth Sense - Thriller
+Prisoners - Thriller
+Donnie Darko - Thriller
+Black Swan - Thriller
+Shutter Island - Thriller
+Zodiac - Thriller
+Gone Girl - Thriller
+The Girl with the Dragon Tattoo - Thriller
+The Prestige - Thriller
+Memento - Thriller
+Insomnia - Thriller
+The Machinist - Thriller
+Oldboy - Thriller
+The Talented Mr. Ripley - Thriller
+Sin City - Thriller
+A History of Violence - Thriller
+No Country for Old Men - Thriller
+The Silence of the Lambs - Thriller
+The Sixth Sense - Thriller
+Se7en - Thriller
+Titanic - Romance
+The Notebook - Romance
+Eternal Sunshine of the Spotless Mind - Romance
+La La Land - Romance
+Before Sunrise - Romance
+500 Days of Summer - Romance
+Pride and Prejudice - Romance
+Amelie - Romance
+Casablanca - Romance
+The Shape of Water - Romance
+Romeo + Juliet - Romance
+Her - Romance
+Notting Hill - Romance
+The Fault in Our Stars - Romance
+A Walk to Remember - Romance
+Silver Linings Playbook - Romance
+About Time - Romance
+Blue Is the Warmest Color - Romance
+Brokeback Mountain - Romance
+Lost in Translation - Romance
+The Great Gatsby - Romance
+The Princess Bride - Romance
+Jerry Maguire - Romance
+Pretty Woman - Romance
+Moulin Rouge! - Romance
+The Fault in Our Stars - Romance
+Crazy, Stupid, Love - Romance
+La La Land - Romance
+Amélie - Romance
+Groundhog Day - Romance
+Love, Actually - Romance
+The English Patient - Romance
+Slumdog Millionaire - Romance
+Atonement - Romance
+Blue Valentine - Romance
+Silver Linings Playbook - Romance
+Brokeback Mountain - Romance
+Lost in Translation - Romance
+The Great Gatsby - Romance
+The Princess Bride - Romance
+Jerry Maguire - Romance
+Pretty Woman - Romance
+Moulin Rouge! - Romance
+Monty Python and the Holy Grail - Comedy
+The Big Lebowski - Comedy
+Groundhog Day - Comedy
+Superbad - Comedy
+Ferris Bueller's Day Off - Comedy
+Anchorman: The Legend of Ron Burgundy - Comedy
+Shaun of the Dead - Comedy
+The Hangover - Comedy
+Airplane! - Comedy
+Bridesmaids - Comedy
+Dumb and Dumber - Comedy
+Napoleon Dynamite - Comedy
+This Is Spinal Tap - Comedy
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan - Comedy
+Caddyshack - Comedy
+The Grand Budapest Hotel - Comedy
+Zoolander - Comedy
+The Princess Bride - Comedy
+Ghostbusters - Comedy
+The 40-Year-Old Virgin - Comedy
+Super Troopers - Comedy
+Office Space - Comedy
+Wayne's World - Comedy
+Ferris Bueller's Day Off - Comedy
+Monty Python and the Holy Grail - Comedy
+Animal House - Comedy
+The Big Lebowski - Comedy
+Step Brothers - Comedy
+Old School - Comedy
+21 Jump Street - Comedy
+This Is the End - Comedy
+Pineapple Express - Comedy
+Harold and Maude - Comedy
+A Night at the Opera - Comedy
+My Cousin Vinny - Comedy
+Trading Places - Comedy
+Planes, Trains and Automobiles - Comedy
+Superbad - Comedy
+Groundhog Day - Comedy
+Tropic Thunder - Comedy
+There's Something About Mary - Comedy
+Die Hard - Action
+Mad Max: Fury Road - Action
+The Dark Knight - Action
+Raiders of the Lost Ark - Action
+Gladiator - Action
+The Matrix - Action
+Inception - Action
+The Terminator - Action
+Lethal Weapon - Action
+The Bourne Identity - Action
+John Wick - Action
+Kill Bill: Vol. 1 - Action
+Speed - Action
+300 - Action
+The Avengers - Action
+Braveheart - Action
+Predator - Action
+The Rock - Action
+The Equalizer - Action
+Taken - Action
+Rambo: First Blood - Action
+Casino Royale - Action
+The Dark Knight Rises - Action
+Guardians of the Galaxy - Action
+The Incredibles - Action
+The Fifth Element - Action
+The Karate Kid - Action
+Die Hard with a Vengeance - Action
+Speed - Action
+300 - Action
+Crank - Action
+John Wick: Chapter 2 - Action
+The Equalizer 2 - Action
+Taken 2 - Action
+Casino Royale - Action
+Die Hard 2 - Action
+Guardians of the Galaxy Vol. 2 - Action
+Kill Bill: Vol. 2 - Action
+Casino - Action
+Gladiator - Action
+Gladiator - Action
+The Matrix Reloaded - Action
+Forrest Gump - Drama
+Schindler's List - Drama
+The Shawshank Redemption - Drama
+A Beautiful Mind - Drama
+American Beauty - Drama
+The Green Mile - Drama
+The Revenant - Drama
+The Pursuit of Happyness - Drama
+Atonement - Drama
+The Social Network - Drama
+12 Years a Slave - Drama
+The King's Speech - Drama
+Dallas Buyers Club - Drama
+Million Dollar Baby - Drama
+The Pianist - Drama
+The Descendants - Drama
+Scent of a Woman - Drama
+Silver Linings Playbook - Drama
+Good Will Hunting - Drama
+Eternal Sunshine of the Spotless Mind - Drama
+500 Days of Summer - Drama
+The Fault in Our Stars - Drama
+Lost in Translation - Drama
+A Star Is Born - Drama
+Requiem for a Dream - Drama
+Manchester by the Sea - Drama
+Precious: Based on the Novel Push by Sapphire - Drama
+Room - Drama
+Boyhood - Drama
+The Artist - Drama
+Birdman - Drama
+La La Land - Drama
+Whiplash - Drama
+The Theory of Everything - Drama
+Captain Phillips - Drama
+Dallas Buyers Club - Drama
+Million Dollar Baby - Drama
+The Pianist - Drama
+Silver Linings Playbook - Drama
+Good Will Hunting - Drama
+Eternal Sunshine of the Spotless Mind - Drama
+500 Days of Summer - Drama
+The Fault in Our Stars - Drama
+Fahrenheit 9/11 - Documentary
+An Inconvenient Truth - Documentary
+March of the Penguins - Documentary
+The Act of Killing - Documentary
+Man on Wire - Documentary
+Blackfish - Documentary
+Bowling for Columbine - Documentary
+The Fog of War - Documentary
+Jiro Dreams of Sushi - Documentary
+Super Size Me - Documentary
+The Cove - Documentary
+Restrepo - Documentary
+Won't You Be My Neighbor? - Documentary
+20 Feet from Stardom - Documentary
+RBG - Documentary
+Searching for Sugar Man - Documentary
+Amy - Documentary
+The Imposter - Documentary
+Free Solo - Documentary
+The White Helmets - Documentary
+Samsara - Documentary
+13th - Documentary
+The Act of Killing - Documentary
+The Fog of War - Documentary
+Man on Wire - Documentary
+The Cove - Documentary
+Restrepo - Documentary
+Won't You Be My Neighbor? - Documentary
+20 Feet from Stardom - Documentary
+RBG - Documentary
+Searching for Sugar Man - Documentary
+Amy - Documentary
+The Imposter - Documentary
+Free Solo - Documentary
+The White Helmets - Documentary
+Samsara - Documentary
+13th - Documentary
+Blackfish - Documentary
+Bowling for Columbine - Documentary
+Super Size Me - Documentary
+Blade Runner - Sci-Fi
+The Matrix - Sci-Fi
+Inception - Sci-Fi
+2001: A Space Odyssey - Sci-Fi
+E.T. the Extra-Terrestrial - Sci-Fi
+The Terminator - Sci-Fi
+The Day the Earth Stood Still - Sci-Fi
+Jurassic Park - Sci-Fi
+Star Wars: A New Hope - Sci-Fi
+The Fifth Element - Sci-Fi
+Close Encounters of the Third Kind - Sci-Fi
+War of the Worlds - Sci-Fi
+District 9 - Sci-Fi
+Avatar - Sci-Fi
+The Martian - Sci-Fi
+Interstellar - Sci-Fi
+The Empire Strikes Back - Sci-Fi
+The Time Machine - Sci-Fi
+Children of Men - Sci-Fi
+The Andromeda Strain - Sci-Fi
+The Matrix Reloaded - Sci-Fi
+The Matrix Revolutions - Sci-Fi
+The Terminator 2: Judgment Day - Sci-Fi
+The Terminator 3: Rise of the Machines - Sci-Fi
+I, Robot - Sci-Fi
+Minority Report - Sci-Fi
+AI: Artificial Intelligence - Sci-Fi
+12 Monkeys - Sci-Fi
+Moon - Sci-Fi
+Ex Machina - Sci-Fi
+Blade Runner 2049 - Sci-Fi
+The Fifth Element - Sci-Fi
+Close Encounters of the Third Kind - Sci-Fi
+War of the Worlds - Sci-Fi
+District 9 - Sci-Fi
+Avatar - Sci-Fi
+The Martian - Sci-Fi
+Interstellar - Sci-Fi
+The Empire Strikes Back - Sci-Fi
+The Time Machine - Sci-Fi
+Children of Men - Sci-Fi
+The Andromeda Strain - Sci-Fi

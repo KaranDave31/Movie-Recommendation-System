@@ -1,0 +1,25 @@
+Hello, kent!
+Your ID is: 99
+Your age is: 34
+Your preferred genre is: Drama
+Your favorite actor is: TOM H
+Hello, Raj S!
+Your ID is: 98
+Your age is: 19
+Your preferred genre is: Romance
+Your favorite actor is: Emraan Hashmi
+Hello, Raj P!
+Your ID is: 888
+Your age is: 19
+Your preferred genre is: Romance
+Your favorite actor is: SSR
+Hello, akshit!
+Your ID is: 988
+Your age is: 19
+Your preferred genre is: Thriller
+Your favorite actor is: SRK
+Hello, Ankita!
+Your ID is: 456
+Your age is: 58
+Your preferred genre is: Comedy
+Your favorite actor is: yafy
